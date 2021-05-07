@@ -3,6 +3,16 @@ const url = require('url');
 // require('env2')('../config.env');
 require('dotenv').config({path:'./.env'})
 
+
+let config;
+
+config = {
+    connectionString:process.env.DATABASE_URL,
+    ssl: {
+        rejectUnauthorized: false
+    }
+}
+
 // if (!process.env.DB_URL)
 //     throw new Error('Enviroment variable DB_URL must be set');
 
@@ -41,4 +51,4 @@ const options = {
 //     // ssl: params.hostname !== 'localhost'
 // };
 
-module.exports = new Pool(options);
+module.exports = new Pool(config);
