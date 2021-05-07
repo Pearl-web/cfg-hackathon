@@ -5,6 +5,8 @@ const { Router } = express; //Here we destructure (ES6) the Router value off of 
 const router = Router();
 const postQueries = require('../queries/postQueries.js');
 const dbConnection = require('../../db_server/db_connection');
+console.log(dbConnection)
+
 
 //Handles button in dashboard.html - user completes a request
 router.post('/complete-request', function(request, response) {
