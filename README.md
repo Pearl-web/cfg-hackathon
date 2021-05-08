@@ -1,12 +1,16 @@
 # Neighbourly
 ### Lets be neighbourly again!
 
+Neighbourly is a community website created as part of Code First: Girls remote Hackathon. This hackathon focused on building something to help people during COVID-19 lockdown. This website aims to connect vulunerable members of the community, who are unable to leave their house due to Covid, with neighbours who would like to help. Users can post tasks on their community board which can then be picked up and completed by a neighbour.
+
+Check out our presentation [here](https://docs.google.com/presentation/d/1-COaSb2F19Pr3aFzFgmlv53hy0oXcilCeAYhW8Bes98/edit#slide=id.g251622d556_0_42) for more information.
+
 <img src="images/homepage-sc.png" width="900" />
 
   - - - -
  
 ### Tools:
-- Bootstrap for frontend
+- HTML, CSS and Bootstrap for frontend
 - NodeJS + Express + PostgreSQL for backend
 
  - - - -
@@ -53,7 +57,7 @@
 ### Developer Setup
 * Fork this repository, and cd into it -
 
-  `git clone https://github.com/hudlerr/cfg-hackathon.git`
+  `git clone https://github.com/pearlhamilton/cfg-hackathon.git`
   
   `cd cfg-hackathon`
 
