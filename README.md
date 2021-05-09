@@ -1,7 +1,7 @@
 # Neighbourly
 ### Lets be neighbourly again!
 
-Neighbourly is a community website created as part of Code First: Girls remote Hackathon. This hackathon focused on building something to help people during COVID-19 lockdown. This website aims to connect vulunerable members of the community, who are unable to leave their house due to Covid, with neighbours who would like to help. Users can post tasks on their community board which can then be picked up and completed by a neighbour.
+Neighbourly is a web app created as part of Code First: Girls remote Hackathon. This hackathon focused on building something to help people during COVID-19 lockdown. This app aims to connect vulunerable members of the community, who are unable to leave their house due to Covid, with neighbours who would like to help. Users can post tasks on their community board which can then be picked up and completed by a neighbour.
 
 Check out our presentation [here](https://docs.google.com/presentation/d/1-COaSb2F19Pr3aFzFgmlv53hy0oXcilCeAYhW8Bes98/edit#slide=id.g251622d556_0_42) for more information.
 
